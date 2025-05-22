@@ -5,6 +5,7 @@
 
 Quant Sim is a high-performance system designed for real-time analysis of execution costs in cryptocurrency trading. It models crucial cost components such as slippage, market impact, and exchange fees, enabling traders to anticipate these expenses *before* placing orders. The system focuses on low-latency calculations and provides real-time visualization through a responsive web interface.
 
+#### Backend: https://github.com/LogicalGuy77/quant-sim-api
 ## Overview
 
 Trading Cost Analysis (TCA) is pivotal for optimizing algorithmic trading strategies. Quant Sim provides a practical implementation of TCA by:
